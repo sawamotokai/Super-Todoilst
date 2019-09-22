@@ -1,0 +1,10 @@
+Sample#0	false	daily	0	false	null	2019-08-08
+Sample#1	false	daily	1	false	null	2019-08-08
+Sample#2	false	daily	2	false	null	2019-08-08
+Sample#3	false	daily	3	false	null	2019-08-08
+Sample#4	false	daily	4	false	null	2019-08-08
+Sample#5	false	daily	5	false	null	2019-08-08
+Sample#6	false	daily	6	false	null	2019-08-08
+Sample#7	false	daily	7	false	null	2019-08-08
+Sample#8	false	daily	8	false	null	2019-08-08
+Sample#9	false	daily	9	false	null	2019-08-08

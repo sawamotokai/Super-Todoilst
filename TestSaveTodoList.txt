@@ -1,0 +1,10 @@
+Sample#0	null	2019-07-20-Sat	0	false	false
+Sample#1	null	2019-07-20-Sat	1	false	false
+Sample#2	null	2019-07-20-Sat	2	false	false
+Sample#3	null	2019-07-20-Sat	3	false	false
+Sample#4	null	2019-07-20-Sat	4	false	false
+Sample#5	null	2019-07-20-Sat	5	false	false
+Sample#6	null	2019-07-20-Sat	6	false	false
+Sample#7	null	2019-07-20-Sat	7	false	false
+Sample#8	null	2019-07-20-Sat	8	false	false
+Sample#9	null	2019-07-20-Sat	9	false	false

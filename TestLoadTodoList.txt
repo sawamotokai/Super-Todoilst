@@ -1,0 +1,2 @@
+Meet up my friend 	false	2019-08-19-Mon	0	true	JAPAN
+Visit grand parents	false	2019-08-29-Thu	1	false	Ishikawa

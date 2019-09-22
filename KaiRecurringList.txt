@@ -1,0 +1,4 @@
+item4	false	daily	4	false	Home	2019-08-08
+item5	false	weekly	5	false	Home	2019-08-07
+Item8	false	daily	6	false	Save on foods	2019-08-07
+item4	false	weekly	8	false	Japan	2019-08-08

@@ -1,0 +1,4 @@
+item1	Location. Leave blank if no location.	2019-09-09-Mon	1	false	true
+item2	UBC		2	true	false
+item3		2020-02-02-Sun	3	false	false
+Item			7	false	false

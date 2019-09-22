@@ -1,0 +1,2 @@
+Sample#0	false	daily	0	false	null	2019-08-07
+Sample#1	false	daily	1	false	null	2019-08-07
