@@ -1,5 +1,5 @@
 # Super-Todoilst
-
+This is a desktop-application. You have to download it in order to use this app.
 This was Kai's final project for CPSC210 at UBC.
 
 How To Use:
